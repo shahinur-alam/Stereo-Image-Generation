@@ -1,0 +1,3 @@
+﻿  Visualize2imageSidebySide.cpp
+c:\users\shahinur\source\repos\visualize2imagesidebyside\visualize2imagesidebyside\visualize2imagesidebyside.cpp(40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Visualize2imageSidebySide.vcxproj -> C:\Users\Shahinur\source\repos\Visualize2imageSidebySide\x64\Debug\Visualize2imageSidebySide.exe
